@@ -1,0 +1,14 @@
+Cell: A cell is a rectangular area formed by the intersection of a column and a row. Cells are identified by the Cell Name (or Reference, which is found by combining the Column Letter with the Row Number.
+4. How can you restrict someone from copying a cell from your worksheet?
+First, choose the data you want to protect.
+Hit Ctrl + Shift + F. The Format Cells tab appears. Go to the Protection tab. Check Locked and click OK.
+Next, go to the Review tab and select Protect Sheet. Enter the password to protect the sheet.
+Copy a sheet to another workbook
+Select the sheet that you want to copy. On the Edit menu, select Sheet > Move or Copy Sheet. On the To book menu, select the workbook that you want to copy the sheet to. Tip: To create a new workbook that contains the moved sheet, select new book.
+The correct answer is Ctrl + N. Ctrl + N is to open a new document in MS word.
+Interface Element	Description
+Scroll Bars	Used to navigate up, down, left & right
+Zoom Slider	Zoom into an area of the worksheet
+View Buttons	Switch between Normal, Page Layout and Page Break Preview views
+Worksheet tabs	Tabs used to select individual worksheets
+Relative references are especially convenient whenever you need to repeat the same calculation across multiple rows or columns.
