@@ -1,0 +1,8 @@
+There are 5 types of conditional formatting visualizations available: Background Color Shading (of cells) Foreground Color Shading (of fonts) Data Bars
+Select a cell or a range of cells to which you want to add borders.
+On the Home tab, in the Font group, click the down arrow next to the Borders button, and you will see a list of the most popular border types.
+Click the border you want to apply, and it will be immediately added to the selected cells.
+Tip: You can also press Ctrl+1 to open the Format Cells dialog box. In the Format Cells dialog box, in the Category list, click Currency or Accounting. In the Symbol box, click the currency symbol that you want. Note: If you want to display a monetary value without a currency symbol, you can click None.
+On the Home tab, in the Number group, select the icon next to Number to display the Format Cells dialog box. In the Format Cells dialog box, in the Category list, select Percentage. In the Decimal places box, enter the number of decimal places that you want to display.
+We can use the shortcut keys, ALT H+M+M to merge cells in Excel. Also, to merge & center, we can use the shortcut keys, ALT H+M+C to merge and align the data in the center. 
+Select the column, or range where you'll be putting the values, then use CTRL+1 to bring up the Format > Cells dialog and on the Number tab select Text. Now Excel will keep your leading 0's. If you've already entered data and Excel has removed your leading 0's, you can use the TEXT function to add them back.
