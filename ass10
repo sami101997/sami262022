@@ -1,0 +1,1 @@
+Use the COUNT function to get the number of entries in a number field that is in a range or array of numbers. For example, you can enter the following formula to count the numbers in the range A1:A20: =COUNT(A1:A20).
