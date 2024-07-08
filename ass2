@@ -1,0 +1,14 @@
+The dollar sign ($) is a character often used in computer programming languages to create variables and constants, which are defined by the user as values or pieces of data.
+Switch between relative, absolute, and mixed references
+Select the cell that contains the formula.
+In the formula bar. , select the reference that you want to change.
+Press F4 to switch between the reference types.
+Excel follows general mathematical rules for calculations, which is Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction, or the acronym PEMDAS (Please Excuse My Dear Aunt Sally). Using parentheses allows you to change that calculation order.
+Excel Basics: The 5 Functions Every Excel User Should Know
+1) The SUM Function. Excel's SUM function adds values. ...
+2) The AVERAGE Function. The AVERAGE function returns the average, or arithmetic mean, for a group of numbers. ...
+3) The COUNT Function. ...
+4) The MIN Function.
+31 Jan 2023
+The SUBTOTAL Function[1]in Excel allows users to create groups and then perform various other Excel functions such as SUM, COUNT, AVERAGE, PRODUCT, MAX, etc. Thus, the SUBTOTAL function in Excel helps in analyzing the data provided.
+In its simplest form, the VLOOKUP function says: =VLOOKUP(What you want to look up, where you want to look for it, the column number in the range containing the value to return, return an Approximate or Exact match – indicated as 1/TRUE, or 0/FALSE).
