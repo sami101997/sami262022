@@ -1,0 +1,1 @@
+A module is the fundamental syntactic unit of VBA source code. The physical representation of a module is implementation dependent but logically a VBA module is a sequence of Unicode characters that conform to the VBA language grammars. A module consists of two parts: a module header and a module body.
