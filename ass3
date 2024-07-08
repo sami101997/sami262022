@@ -1,0 +1,10 @@
+If you need to sum a column or row of numbers, let Excel do the math for you. Select a cell next to the numbers you want to sum, select AutoSum on the Home tab, press Enter, and you're done. When you select AutoSum, Excel automatically enters a formula (that uses the SUM function) to sum the numbers.
+The Autosum Excel Function[1] can be accessed by typing ALT + the = sign in a spreadsheet, and it will automatically create a formula to sum all the numbers in a continuous range. This function is a great way to speed up your financial analysis.
+To turn off the notification "Formula Omits Adjacent Cells" you're getting, kindly follow the steps below:
+Open Excel and then click on File.
+Go to Options and then select Formulas.
+Look for Error checking rules and uncheck Formulas which omit cells in a region.
+Click OK.
+To select non-adjacent cells and cell ranges, hold Ctrl and select the cells.
+Ctrl+Shift+” Copies the value from the cell above the active cell into the cell or the Formula Bar. Ctrl+Shift+Plus (+) Displays the Insert dialog box to insert blank cells. Ctrl+Minus (-) Displays the Delete dialog box to delete the selected cells.
+Generally speaking, when you add a row in Microsoft Excel, it would appear underneath the selected row. In this context, we can reasonably infer and logically deduce that the new row would be inserted below the selected row in the spreadsheet document, thereby, pushing the existing rows downward
