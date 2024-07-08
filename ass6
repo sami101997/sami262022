@@ -1,0 +1,23 @@
+Interface Element	Description
+Formula Bar	View, enter, or edit cell contents
+Insert Function Button	Displays Insert Function dialog box
+Scroll Bars	Used to navigate up, down, left & right
+Zoom Slider	Zoom into an area of the worksheet
+Organizations use Microsoft Excel for the following:
+collection and verification of business data;
+business analysis;
+data entry and storage;
+data analysis;
+performance reporting;
+strategic analysis;
+accounting and budgeting;
+administrative and managerial management;
+In the Customize the Ribbon window, under the Customize the Ribbon list, click the tab that you want to add a group to. Click New Group. To rename the New Group (Custom) group, right-click the group, click Rename, and then type a new name.
+Ctrl+Shift+! Applies comma formatting.
+Ctrl+Shift+$ Applies currency formatting.
+Ctrl+Shift+# Applies date formatting.
+Ctrl+Shift+% Applies percentage formatting.
+Ctrl+Shift+^ Applies exponential formatting.
+Ctrl+Shift+* Selects the current region around the active cell.
+Ctrl+Shift+& ...
+Ctrl+Shift+_
